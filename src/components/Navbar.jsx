@@ -26,7 +26,7 @@ const Navbar = () => {
     <nav>
         <div>
             <a href="#" className='flex items-center gap-2'>
-                <img src="/images/navlogo.avif" width={50} height={50} className='bg-white rounded-full' alt="" />
+                <img src="./images/navlogo.avif" width={50} height={50} className='bg-white rounded-full' alt="" />
                 <p>Laofology</p>
             </a>
             <ul>
