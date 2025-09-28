@@ -26,6 +26,8 @@ This project is a **landing page** I designed and developed to showcase their br
 👉 *Scroll Animations in Action:*  
 - ![Animation](https://github.com/usamam46-git/Laofology/blob/main/LaofologyPakistan-GoogleChrome2025-09-2900-41-37-ezgif.com-optimize.gif?raw=true)
 
+- ![Second Animation](https://github.com/usamam46-git/Laofology/blob/main/SecondAnimation-ezgif.com-optimize.gif?raw=true)
+
 ---
 
 ## 🛠️ Tech Stack
