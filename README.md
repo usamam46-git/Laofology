@@ -24,7 +24,7 @@ This project is a **landing page** I designed and developed to showcase their br
 - ![Homepage](https://github.com/usamam46-git/Laofology/blob/main/Homepage.png?raw=true)
 
 👉 *Scroll Animations in Action:*  
-<!-- Add your second screenshot here -->  
+- ![Animation](https://github.com/usamam46-git/Laofology/blob/main/LaofologyPakistan-GoogleChrome2025-09-2900-41-37-ezgif.com-optimize.gif?raw=true)
 
 ---
 
