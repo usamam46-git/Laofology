@@ -21,7 +21,7 @@ This project is a **landing page** I designed and developed to showcase their br
 ## 📸 Screenshots
 
 👉 *Landing Page Preview:*  
-- [Homepage](https://github.com/usamam46-git/Laofology/blob/main/Homepage.png?raw=true)
+- ![Homepage](https://github.com/usamam46-git/Laofology/blob/main/Homepage.png?raw=true)
 
 👉 *Scroll Animations in Action:*  
 <!-- Add your second screenshot here -->  
