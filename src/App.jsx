@@ -7,7 +7,6 @@ import Hero from './components/Hero';
 import MenuLists from './components/MenuLists';
 import About from './components/About';
 import Art from './components/Art';
-import Notice from './components/Notice';
 import Menu from './components/Menu';
 import Contact from './components/Contact';
 
@@ -16,7 +15,6 @@ gsap.registerPlugin(ScrollTrigger, SplitText);
 const App = () => {
   return (
     <main>
-      <Notice />
       <Navbar />
       <Hero />
       <MenuLists />
