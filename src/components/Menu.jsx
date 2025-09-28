@@ -78,7 +78,7 @@ const Menu = () => {
 		</div>
 		
 		<div className="cocktail">
-		 <img src={`./images/${currentCocktail.image}`} className="object-contain"/>
+		 <img src={`.${currentCocktail.image}`} className="object-contain"/>
 		</div>
 		
 		<div className="recipe">
