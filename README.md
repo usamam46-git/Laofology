@@ -1,16 +1,38 @@
-# React + Vite
+# 🥂 Laofology
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Laofology is a **mocktail and fresh drinks brand** located in Gulberg, Lahore (Pakistan).  
+This project is a **landing page** I designed and developed to showcase their brand with a modern, smooth, and visually engaging experience.  
+⚠️ All pictures used in this project are **mock images** and only serve demonstration purposes.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Highlights
 
-## React Compiler
+- ⚡ Built with **Vite** for fast development and optimized builds.  
+- 🎨 Styled using **Tailwind CSS**, making use of both utilities and components in an organized way.  
+- 🎬 Stunning **GSAP animations**:
+  - ScrollTrigger  
+  - Stagger effects  
+  - From / To animations  
+  - And more dynamic transitions  
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 *Landing Page Preview:*  
+- [Homepage](https://github.com/usamam46-git/Laofology/blob/main/Homepage.png?raw=true)
+
+👉 *Scroll Animations in Action:*  
+<!-- Add your second screenshot here -->  
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://react.dev/)  
+- [Vite](https://vitejs.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [GSAP](https://gsap.com/)  
+
+---
